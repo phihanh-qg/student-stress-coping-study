@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this research report, methodology, or dataset in your academic work, please cite it as below."
+title: "Nghiên cứu thực trạng và đề xuất một số biện pháp ứng phó với căng thẳng và cảm xúc tiêu cực của học sinh trên địa bàn huyện Ea H'leo"
+authors:
+  - family-names: "Nhóm nghiên cứu"
+    given-names: "Học sinh THPT Huyện Ea H'leo"
+    affiliation: "Sở Giáo dục và Đào tạo Đắk Lắk"
+date-released: 2023-09-20
+version: "1.0.0"
+repository-code: "https://github.com/phihanh-qg/student-stress-coping-study"
+license: "CC-BY-4.0"
+type: dataset
+keywords:
+  - "căng thẳng học đường"
+  - "cảm xúc tiêu cực"
+  - "biện pháp ứng phó"
+  - "tâm lý học lứa tuổi"
+  - "học sinh trung học phổ thông"
+  - "VISEF"
+  - "Ea H'leo"
+  - "Dak Lak"
+abstract: "Dự án nghiên cứu thực trạng và đề xuất các biện pháp ứng phó với căng thẳng và cảm xúc tiêu cực của học sinh trung học phổ thông tại huyện Ea H'leo, tỉnh Đắk Lắk. Nghiên cứu thực hiện khảo sát định lượng trên mẫu N = 770 học sinh tại ba trường THPT (Ea H'leo, Phan Chu Trinh, Võ Văn Kiệt) kết hợp phỏng vấn sâu định tính, qua đó xây dựng hệ thống biện pháp can thiệp đa tầng gồm cấp độ vĩ mô (môi trường học đường, gia đình, xã hội) và cấp độ vi mô (kỹ năng tự chủ cảm xúc, bài tập thở cơ hoành, chánh niệm)."
